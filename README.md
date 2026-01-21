@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🛒 Amazon Clone Project
+# 🛒 Amazon Clone (HTML & CSS)
 
-A modern **Amazon-inspired e-commerce web application** built to replicate core features of Amazon such as product browsing, cart management, and user interaction.
+A **static Amazon homepage clone** built using **pure HTML and CSS**, focusing on layout, design, and responsive structure.
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)
-![Project](https://img.shields.io/badge/Project-Amazon%20Clone-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS-orange)
+![Type](https://img.shields.io/badge/Project-Frontend%20UI-blue)
 
 </div>
 
@@ -16,22 +16,21 @@ A modern **Amazon-inspired e-commerce web application** built to replicate core 
 
 ## 📌 Overview
 
-This **Amazon Clone** is a frontend-focused project that mimics the **UI and basic functionality** of the Amazon website.  
-It is built to practice **web development fundamentals**, responsive design, and real-world layout structuring.
+This **Amazon Clone** is a **frontend-only project** created to practice and demonstrate **HTML5 and CSS3 skills**.  
+It replicates the **visual design and structure** of Amazon’s homepage, including navigation bar, product sections, and footer.
 
-The project demonstrates how a large-scale e-commerce interface can be designed using **clean HTML, CSS, and JavaScript**.
+⚠️ This project does **not include JavaScript** and is intended purely for **UI and layout practice**.
 
 ---
 
 ## ✨ Features
 
-- 🏠 Amazon-like Home Page
-- 🔍 Product Listings
-- 🛒 Add to Cart UI
-- 📦 Product Cards & Sections
-- 🎨 Responsive Layout
-- 🧭 Navigation Bar similar to Amazon
-- 📱 Mobile-friendly design
+- 🏠 Amazon-like homepage layout  
+- 🔍 Header with logo, search bar & navigation  
+- 📦 Product sections & cards  
+- 🎨 Clean and modern UI  
+- 📱 Responsive design (basic)  
+- 🧭 Footer similar to Amazon  
 
 ---
 
@@ -39,8 +38,8 @@ The project demonstrates how a large-scale e-commerce interface can be designed 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
-- **Flexbox & Grid**
+- **Flexbox**
+- **CSS Grid**
 - **Responsive Web Design**
 
 ---
@@ -51,7 +50,6 @@ amazon-clone-project/
 │
 ├── index.html
 ├── style.css
-├── script.js
 ├── assets/
 │ ├── images/
 │ └── icons/
@@ -66,7 +64,3 @@ amazon-clone-project/
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/samotanitesh247-ship-it/amazon-clone-project.git
-
-
-![Home Page](screenshots/home.png)
-![Product Section](screenshots/products.png)
